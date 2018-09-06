@@ -3,7 +3,7 @@ layout: post
 title: Building a relationship 
 ---
 
-![Photo of table](/firsttable.png)
+![Photo of table](/images/firsttable.png)
 
 One day while I was working at one of my projects in the city, an older lady walked by and struck up a conversation with me about what we were working on. She was the next door neighbor and told me that she had been watching us work for a while and was really impressed with the quality of our work and our work ethic. She asked me if I could take a look at a table she had that she wanted refinished and if I could refinish it for her. 
 
